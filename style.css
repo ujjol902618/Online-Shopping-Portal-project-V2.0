@@ -1,0 +1,37 @@
+body {
+    background: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Courier New', monospace;
+  }
+  
+  .casio-watch {
+    background: #000;
+    border: 5px solid #555;
+    border-radius: 10px;
+    padding: 20px 30px;
+    box-shadow: 0 0 30px #00f;
+    color: #0f0;
+    text-align: center;
+    width: 250px;
+  }
+  
+  .brand {
+    font-size: 14px;
+    color: #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .time {
+    font-size: 36px;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
+  }
+  
+  .date {
+    font-size: 14px;
+    color: #aaa;
+  }
+  
